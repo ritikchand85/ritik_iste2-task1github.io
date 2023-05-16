@@ -1,0 +1,59 @@
+
+    body{
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    h1{
+        height:100%;
+        width:100%;
+    }
+    .heading {
+        color: yellow;
+        text-align: center;
+        font-size: 1rem;
+        box-sizing: border-box;
+        background-color: black;
+        width: 38vw;
+        margin: auto;
+        border-radius: 42px;}
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            border: solid 2px black;
+            background-color: #9287de;
+            border-radius: 45px;
+          }
+    .footer {
+      background-color: #333;
+      color: #fff;
+      padding: 10px;
+      text-align: center;
+    }
+    .instagram{
+        
+
+    }
+    html {
+        background-color: #daffcd;
+      }
+      h2 {
+        text-align: center;
+      }
+      .form {
+        text-align: center;
+        border: 2px solid black;
+        border-radius: 30px;
+        width: 33vw;
+        margin: auto;
+        background-color:gold;
+        padding:18px;
+      }
+      .submit {
+        background-color: red;
+        border: 2px solid black;
+        border-radius: 30px;
+        height: 30px;
+        width: 81px;
+      }
